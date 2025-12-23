@@ -62,4 +62,8 @@ Note: Replace `MYUSER` by your Windows username.
 
 Note: `C:\Users\MYUSER\AppData` directory is hidden by default in windows.
 
+## Usage
+Once the project has been launched, go to Home / Project settings / Translation memory and machine translation / Use... / PangeaMT translation provider
+
+
 
