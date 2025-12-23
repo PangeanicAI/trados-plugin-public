@@ -64,19 +64,16 @@ Note: `C:\Users\MYUSER\AppData` directory is hidden by default in windows.
 
 ## Usage
 
-### Step 1:
-Open the configuration panel:
+### Step 1. Open the configuration panel:
 
 <img src="config_panel.png" alt="Config panel" />
 
 
-### Step 2:
-Enter your API key:
+### Step 2. Enter your API key:
 
-<img src="apikey.png" alt="API key" />
+<img src="apikey.png" alt="API key" width="50%" />
 
 
-### Step 3:
-Select the translation engine:
+### Step 3. Select the translation engine:
 
-<img src="select_translation_engine.png" alt="API key" width="50%" />
+<img src="select_translation_engine.png" alt="Select translation engine" width="50%" />
