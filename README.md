@@ -63,9 +63,20 @@ Note: Replace `MYUSER` by your Windows username.
 Note: `C:\Users\MYUSER\AppData` directory is hidden by default in windows.
 
 ## Usage
-Once the project has been launched, you can open the plug-in configuration panel like this:
+
+### Step 1:
+Open the configuration panel:
 
 <img src="config_panel.png" alt="Config panel" />
 
 
+### Step 2:
+Enter your API key:
 
+<img src="apikey.png" alt="API key" />
+
+
+### Step 3:
+Select the translation engine:
+
+<img src="select_translation_engine.png" alt="API key" />
