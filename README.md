@@ -79,4 +79,4 @@ Enter your API key:
 ### Step 3:
 Select the translation engine:
 
-<img src="select_translation_engine.png" alt="API key" />
+<img src="select_translation_engine.png" alt="API key" width="50%" />
