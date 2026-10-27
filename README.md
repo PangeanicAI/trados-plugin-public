@@ -8,6 +8,7 @@ There is a release of our plug-in for each version of Trados listed below:
 
 | Trados commercial version | Trados internal version 
 |---|---|
+| Trados 2026 | >=19 |
 | Trados 2024 | >=18 |
 | Trados 2022_SR2 | >=17.2 <18 |
 | Trados 2022 | >=17.0 <17.1  |
