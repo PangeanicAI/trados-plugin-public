@@ -28,6 +28,7 @@ Unpacked versions of all Trados' plug-ins are located there:
 
 | Trados commercial version | Trados internal version  | Download 
 |---|---|---|
+| Trados 2026 | >=19 | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\19\Plugins\Unpacked |
 | Trados 2024 | >=18 | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\18\Plugins\Unpacked |
 | Trados 2022_SR2 | >=17.2 <18 | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\17\Plugins\Unpacked |
 | Trados 2022 | >=17.0 <17.1  | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\17\Plugins\Unpacked |
