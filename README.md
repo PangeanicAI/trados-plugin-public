@@ -44,8 +44,6 @@ The plugin is just a file with the .sdlplugin extension. It is necessary to down
 
 | Trados commercial version | Trados internal version  | Download from github | Download from RWS appStore |
 |---|---|---|---|
-
-| Trados 2026 | >=19 | [Download](https://github.com/PangeanicAI/trados-plugin-public/releases/download/2.0.0.0/PangeanicTranslationProviderTrados2026.sdlplugin) | - |
 | Trados 2024 | >=18 | [Download](https://github.com/PangeanicAI/trados-plugin/releases/download/Trados2024_1.0.0/PangeanicTranslationProviderTrados2024.sdlplugin) | [Download](https://appstore.rws.com/plugin/415?lang=en) |
 | Trados 2022_SR2 | >=17.2 <18 | - | - |
 | Trados 2022 | >=17.0 <17.1  | - | - |
