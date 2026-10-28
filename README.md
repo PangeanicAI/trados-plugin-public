@@ -56,6 +56,7 @@ Just copy the file downloaded in step 2 to the appropriate folder:
 
 | Trados commercial version | Plug-in directory
 |---|---|
+| Trados 2026 | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\19\Plugins\Packages |
 | Trados 2024 | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\18\Plugins\Packages |
 | Trados 2022_SR2 | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\17\Plugins\Packages |
 | Trados 2022 | C:\Users\MYUSER\AppData\Roaming\Trados\Trados Studio\17\Plugins\Packages |
